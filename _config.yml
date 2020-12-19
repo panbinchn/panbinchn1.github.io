@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Panbinchn
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Panbin
 language: zh-CN
 timezone: ''
 
@@ -104,5 +104,5 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo： https://github.com/panbinchn/panbinchn.github.io.git
-  branch: main
+  repo: https://github.com/panbinchn/panbinchn.github.io.git
+  branch: master
